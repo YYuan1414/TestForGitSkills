@@ -1,6 +1,0 @@
-test
-for
-git
-commit
-single
-file
