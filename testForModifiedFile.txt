@@ -1,7 +1,6 @@
-make
-modifiction
-and
-add
-to
-the
-repo
+test
+for
+git
+commit
+single
+file
